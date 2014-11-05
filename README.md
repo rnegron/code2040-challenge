@@ -21,4 +21,4 @@ standard, which was interesting. All in all, I had a good time with these
 challenges!
 
 For stage4.py, I used the following:
-["Easy way to add n seconds to a datetime time")](http://stackoverflow.com/a/100345)
+["Easy way to add n seconds to a datetime time"](http://stackoverflow.com/a/100345)
